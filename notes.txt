@@ -1,0 +1,15 @@
+Maps:
+- The Final Reich: zombie_nest
+- The Darkest Shore: zombie_island
+- The Shadowed Throne: zombie_berlin
+- The Frozen Dawn: zombie_descent
+
+General:
+- Stadtjäger = zombie_bob
+
+The Final Reich:
+- s2-src-zombies/maps/mp
+/mp_zombie_nest_ee_util.gsc
+
+The Darkest Shore:
+- Ripsaw = razergun
